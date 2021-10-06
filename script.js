@@ -8,3 +8,4 @@ let name = "script.js";
 var name01 = "hi hello";
 
 var name02 = "849";
+var name03 = "439";
